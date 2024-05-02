@@ -1,4 +1,8 @@
-# <h1>Testing</h1>
+<h1>Testing</h1>
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 ```
 $ git init
